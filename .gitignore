@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment (local env)
+venv/
+
+# Jupyter Notebook checkpoints (jika ada)
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# VS Code config (optional)
+.vscode/
+
+# Jangan push file sensitive
+.env
